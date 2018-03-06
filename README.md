@@ -1,5 +1,7 @@
 <h2 align="center"><code>commandbus</code></h2>
-
+<p align="center">
+<a href="https://badge.fury.io/py/commandbus"><img src="https://badge.fury.io/py/commandbus.svg" alt="PyPI version" height="18"></a>
+</p>
 ## 📜 About
 Command bus is a pattern from CQRS. In this pattern we have three components:
 
