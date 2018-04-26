@@ -1,6 +1,7 @@
 <h2 align="center"><code>commandbus</code></h2>
 <p align="center">
 <a href="https://badge.fury.io/py/commandbus"><img src="https://badge.fury.io/py/commandbus.svg" alt="PyPI version" height="18"></a>
+<a href="http://pepy.tech/count/commandbus"><img src="http://pepy.tech/badge/commandbus" alt="Download stats version" height="18"></a>
 </p>
 
 ## 📜 About
